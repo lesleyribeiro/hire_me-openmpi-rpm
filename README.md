@@ -30,6 +30,7 @@ rpm -ivh openmpi-4.1.4-1.el7.x86_64.rpm
 at least... for me it works fine :D
 
 openmpi-4.1.4-1.el7.x86_64.rpm  README.md
+
 [root@localhost hire_me-openmpi-rpm]# rpm -ivh openmpi-4.1.4-1.el7.x86_64.rpm
 
 Preparing...                          ################################# [100%]
