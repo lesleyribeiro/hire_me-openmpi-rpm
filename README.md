@@ -14,6 +14,7 @@ Downloaded the source code for OpenMPI version 4.1.4 from the OpenMPI website an
 Created a spec file for the package in the "~/rpmbuild/SPECS" directory.
 
 Built the RPM package by running the command "rpmbuild -bb ~/rpmbuild/SPECS/openmpi.spec"
+
 The built package was found in the "~/rpmbuild/RPMS" directory with the name "openmpi-4.1.4-1.el7.x86_64.rpm"
 Uploaded the RPM package to this Github repository.
 How to add the repository to your operating system:
