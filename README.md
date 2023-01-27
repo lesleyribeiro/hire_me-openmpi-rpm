@@ -11,6 +11,7 @@ Install the RPM building tools on the Centos system by running the command "yum 
 Create the necessary directories for building the RPM package using "mkdir -p ~/rpmbuild/{BUILD,RPMS,SOURCES,SPECS,SRPMS}"
 
 Downloaded the source code for OpenMPI version 4.1.4 from the OpenMPI website and placed it in the "~/rpmbuild/SOURCES" directory
+
 Created a spec file for the package in the "~/rpmbuild/SPECS" directory.
 
 Built the RPM package by running the command "rpmbuild -bb ~/rpmbuild/SPECS/openmpi.spec"
