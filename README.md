@@ -31,9 +31,16 @@ at least... for me it works fine :D
 
 openmpi-4.1.4-1.el7.x86_64.rpm  README.md
 [root@localhost hire_me-openmpi-rpm]# rpm -ivh openmpi-4.1.4-1.el7.x86_64.rpm
+
 Preparing...                          ################################# [100%]
+
 Updating / installing...
+
    1:openmpi-4.1.4-1.el7              ################################# [100%]
+   
 [root@localhost hire_me-openmpi-rpm]# rpm -qa | grep openmpi
+
 openmpi-4.1.4-1.el7.x86_64
+
 [root@localhost hire_me-openmpi-rpm]#
+
