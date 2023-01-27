@@ -17,6 +17,7 @@ Uploaded the RPM package to this Github repository.
 How to add the repository to your operating system:
 
 Use the following command to clone git:
-https://github.com/lesleyribeiro/hire-me_openmpi-rpm-repo.git
+git clone https://github.com/lesleyribeiro/hire-me_openmpi-rpm-repo.git
 
 and run this to install:
+rpm -ivh openmpi-4.1.4-1.el7.x86_64.rpm
