@@ -35,7 +35,7 @@ The built package was found in the "~/rpmbuild/RPMS" directory with the name "op
 Uploaded the RPM package to this Github repository.
 
 
-# Litthe comment...
+# Little comment...
 at least... for me it works fine :D
 
 $ cd hire_me-openmpi-rpm/
