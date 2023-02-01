@@ -1,6 +1,6 @@
 # hire_me-openmpi-rpm
 
-Hi James, sorry for my delay... the biggest problem was my weed-work. A lot of things to do!
+Hi James, sorry for my delay... the biggest problem was my week-work. A lot of things to do!
 But, I would like to you know, that I do my best, although short time...
 
 # INSTRUCTIONS TO INSTALL
